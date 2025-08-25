@@ -1,3 +1,5 @@
+NOTE: its a 3D interface you can interact using your mouse/cursor and rotate too.
+
 # Solar System Simulation
 
 A beautiful and interactive 3D solar system simulation built with Three.js and Vite. This project features realistic planetary textures, orbital mechanics, and a stunning star field background.
